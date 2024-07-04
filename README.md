@@ -5,6 +5,8 @@
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=zul-aji&show_icons=true)
 --->
 
+<h3 align="center">An Indonesian software engineering fresh graduate</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zul-aji" alt="zul-aji" /></a> </p>
 
 - 📧 You can reach me via email - zulfiqar.aji@gmail.com
