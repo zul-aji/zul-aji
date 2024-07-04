@@ -9,7 +9,7 @@
 - 📧 You can reach me via email - zulfiqar.aji@gmail.com
 - 💼 Currently Part-Time worker as Flutter Developer at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/zul-aji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zul-aji" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zul.r.aji?igsh=dHh4Y2dxcHhwbHB1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafaelmatthew35" height="30" width="40" /></a>
