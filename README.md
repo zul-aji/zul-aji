@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zul-aji" alt="zul-aji" /></a> </p>
 
 - 📧 You can reach me via email - zulfiqar.aji@gmail.com
-- 💼 Currently Part-Time worker as Flutter Developer at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
+- 💼 Currently a Part-Time worker as Flutter Developer at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
 
 <h3 align="left">Connect with me:</h4>
 <p align="left">
