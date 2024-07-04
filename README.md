@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/zul-aji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zul-aji" height="30" width="40" /></a>
-<a target="_blank" href="mailto:zulfiqar.aji@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 <a href="https://www.instagram.com/zul.r.aji?igsh=dHh4Y2dxcHhwbHB1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafaelmatthew35" height="30" width="40" /></a>
 </p>
 
