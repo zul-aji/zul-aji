@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kw214/kw214/main/Hi.gif" width="30">, I'm Zul</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/kw214/kw214/main/Hi.gif" width="30">, I'm Zul</h1>
 
 <!---
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=zul-aji.zul-aji" alt="kw214" /> </p>
