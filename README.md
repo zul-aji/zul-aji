@@ -10,7 +10,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=zul-aji&theme=onedark)](https://github.com/zul-aji/github-profile-trophy)
 
 - 📧 You can reach me via email - zulfiqar.aji@gmail.com
-- 💼 Currently a Part-Time worker as Flutter Developer at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
 
 <h3 align="left">Connect with me:</h4>
 <p align="left">
