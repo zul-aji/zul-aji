@@ -5,7 +5,7 @@
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=zul-aji&show_icons=true)
 --->
 
-<h3 align="center">An Indonesian software engineering fresh graduate</h3>
+<h3 align="center">A Software Engineer!</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zul-aji&theme=onedark)](https://github.com/zul-aji/github-profile-trophy)
 
