@@ -5,7 +5,7 @@
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=zul-aji&show_icons=true)
 --->
 
-<h3 align="center">A Software Engineer!</h3>
+<p align="center">A Software Engineer with expertise in mobile application development using Flutter and Kotlin for native Android utilizing Dart and Jetpack Compose. I am also proficient in front-end development, specializing in React with JavaScript and TypeScript for creating dynamic web applications, as well as back-end technologies like .Net and Node.js.</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zul-aji&theme=onedark)](https://github.com/zul-aji/github-profile-trophy)
 
